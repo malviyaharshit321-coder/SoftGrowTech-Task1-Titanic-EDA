@@ -1,4 +1,5 @@
-# Task 1: Titanic Survival Analysis (EDA)
+# Task 1
+# project 1: Titanic Survival Analysis (EDA)
 Part of my Data Science internship at SoftGrowTech.
 
 ## 📊 Project Overview
